@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
     }
+    //
     internal var scoreTeamA = 0
 
     internal var scoreTeamB = 0
